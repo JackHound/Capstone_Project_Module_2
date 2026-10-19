@@ -1,7 +1,13 @@
 # Capstone_Project_Module_2
 
 ---
+## Tableau Link
+
 https://public.tableau.com/views/CapstoneProjectModule2_17924196357860/WaterInput?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Slide Link
+
+https://docs.google.com/presentation/d/1kXfW8vaq66mRHLflp5CxSkJ9VAG7qCAJatYqML2iL28/edit?usp=sharing
 
 ## Overview
 Proyek analisis data tagihan IPL (Iuran Pengelolaan Lingkungan) untuk memahami pola Non-Paying Invoices (NPI), tunggakan, aktivitas penagihan, dan sengketa pembayaran.
