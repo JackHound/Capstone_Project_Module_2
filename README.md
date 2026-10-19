@@ -1,6 +1,6 @@
 # Capstone_Project_Module_2
 
-https://public.tableau.com/views/CapstoneProjectModule2_17924196357860/NPIbyBillingChannel?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 ## Overview
 Proyek analisis data tagihan IPL (Iuran Pengelolaan Lingkungan) untuk memahami pola Non-Paying Invoices (NPI), tunggakan, aktivitas penagihan, dan sengketa pembayaran.
